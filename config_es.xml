@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>wi_weather</name>
+    <displayName><![CDATA[Webimpacto Mostrar clima]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Muestra un bloque de clima en su sitio.]]></description>
+    <author><![CDATA[Jes&uacute;s Abades]]></author>
+    <tab><![CDATA[administration]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
